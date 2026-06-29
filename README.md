@@ -9,7 +9,6 @@
 - From project root, navigate to dir /backend and run:
 ```
 cd backend
-npm install
 npm run dev
 ```
 - Check http://localhost:41071/ returns "Save the World!"
@@ -19,7 +18,6 @@ npm run dev
 - From project root, navigate to dir /frontend and run
 ```
 cd frontend
-npm install
 npm start
 ```
 - Check you can see the UI at http://localhost:41072/
